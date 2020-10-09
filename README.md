@@ -56,7 +56,10 @@ The [sulu/skeleton](https://github.com/sulu/skeleton) repository provides a **pr
 
 ## ❤️&nbsp; Community and Contributions
 
-The Sulu content management system is a **community-driven open source project** backed by various partner companies. We are committed to a fully transparent development process and **highly appreciate any contributions**. Whether you are helping us fixing bugs, proposing new feature, improving our documentation or spreading the word - **we would love to have you as part of the Sulu community**.
+When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change. 
+
+Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
